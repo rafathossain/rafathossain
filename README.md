@@ -1,7 +1,5 @@
 # <p align="center">️ **Hello there, I'm Md. Rafat Hossain** </p>
 
----
-
 <p align="center">
 <a href="https://github.com/rafathossain96/rafathossain96/blob/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/rafathossain96/rafathossain96?color=brightgreen&label=LICENCE&logo=MIT"/>
