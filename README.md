@@ -1,4 +1,5 @@
-# <p align="center">️ **Hello there, I'm Md. Rafat Hossain** <br><small>Enthusiast learner and explorer. Full time developer.</small></p>
+# <p align="center">️ **Hello there, I'm Md. Rafat Hossain** </p>
+<p align="center">️<small>Enthusiast learner and explorer. Full time developer.</small></p>
 
 <p align="center">
 <a href="https://github.com/rafathossain96/rafathossain96/blob/master/LICENCE">
